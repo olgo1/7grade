@@ -1,0 +1,25 @@
+# LaTeX build files
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.nav
+*.out
+*.run.xml
+*.snm
+*.synctex.gz
+*.toc
+*.vrb
+
+# Editor and OS temporary files
+*.bak
+*.swp
+*.tmp
+*~
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
